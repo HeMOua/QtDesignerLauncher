@@ -1,0 +1,115 @@
+2025-07-13 13:23:18,334 - INFO - 程序启动
+2025-07-13 13:23:18,359 - INFO - Python版本: 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]
+2025-07-13 13:23:18,359 - INFO - 运行环境: 开发环境
+2025-07-13 13:23:18,359 - INFO - 程序路径: E:\CodeMgr\MyTools\QtDesignerLauncher\main.py
+2025-07-13 13:23:18,360 - INFO - 初始化主窗口
+2025-07-13 13:23:18,589 - INFO - 主窗口初始化完成
+2025-07-13 13:23:18,881 - INFO - 主窗口已显示
+2025-07-13 13:23:18,884 - INFO - 开始检测Qt Designer路径
+2025-07-13 13:23:18,924 - INFO - 操作系统: Windows
+2025-07-13 13:23:18,924 - INFO - 运行环境: 开发环境
+2025-07-13 13:23:18,924 - DEBUG - 检查qt6-tools包中的designer
+2025-07-13 13:23:18,927 - DEBUG - qt6_applications 模块未找到
+2025-07-13 13:23:18,927 - DEBUG - 检查PATH环境变量中的designer
+2025-07-13 13:23:18,964 - DEBUG - PATH检查失败: Command '['where', 'designer']' returned non-zero exit status 1.
+2025-07-13 13:23:18,964 - DEBUG - 检查常见安装路径
+2025-07-13 13:23:18,964 - DEBUG - 检查Python site-packages中的designer
+2025-07-13 13:23:18,964 - WARNING - 未找到Qt Designer
+2025-07-13 13:23:36,333 - INFO - 程序启动
+2025-07-13 13:23:36,354 - INFO - Python版本: 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]
+2025-07-13 13:23:36,354 - INFO - 运行环境: 开发环境
+2025-07-13 13:23:36,354 - INFO - 程序路径: E:\CodeMgr\MyTools\QtDesignerLauncher\main.py
+2025-07-13 13:23:36,355 - INFO - 初始化主窗口
+2025-07-13 13:23:36,536 - INFO - 主窗口初始化完成
+2025-07-13 13:23:36,810 - INFO - 主窗口已显示
+2025-07-13 13:23:36,816 - INFO - 开始检测Qt Designer路径
+2025-07-13 13:23:36,853 - INFO - 操作系统: Windows
+2025-07-13 13:23:36,854 - INFO - 运行环境: 开发环境
+2025-07-13 13:23:36,854 - DEBUG - 检查qt6-tools包中的designer
+2025-07-13 13:23:36,854 - DEBUG - qt6_applications 模块未找到
+2025-07-13 13:23:36,854 - DEBUG - 检查PATH环境变量中的designer
+2025-07-13 13:23:36,889 - DEBUG - PATH检查失败: Command '['where', 'designer']' returned non-zero exit status 1.
+2025-07-13 13:23:36,889 - DEBUG - 检查常见安装路径
+2025-07-13 13:23:36,891 - DEBUG - 检查Python site-packages中的designer
+2025-07-13 13:23:36,891 - WARNING - 未找到Qt Designer
+2025-07-13 13:23:38,865 - INFO - 程序启动
+2025-07-13 13:23:38,888 - INFO - Python版本: 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]
+2025-07-13 13:23:38,889 - INFO - 运行环境: 开发环境
+2025-07-13 13:23:38,889 - INFO - 程序路径: E:\CodeMgr\MyTools\QtDesignerLauncher\main.py
+2025-07-13 13:23:38,889 - INFO - 初始化主窗口
+2025-07-13 13:23:39,067 - INFO - 主窗口初始化完成
+2025-07-13 13:23:39,339 - INFO - 主窗口已显示
+2025-07-13 13:23:39,341 - INFO - 开始检测Qt Designer路径
+2025-07-13 13:23:39,341 - INFO - 操作系统: Windows
+2025-07-13 13:23:39,341 - INFO - 运行环境: 开发环境
+2025-07-13 13:23:39,341 - DEBUG - 检查qt6-tools包中的designer
+2025-07-13 13:25:56,510 - INFO - 程序启动
+2025-07-13 13:25:56,529 - INFO - Python版本: 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]
+2025-07-13 13:25:56,529 - INFO - 运行环境: 开发环境
+2025-07-13 13:25:56,529 - INFO - 程序路径: E:\CodeMgr\MyTools\QtDesignerLauncher\main.py
+2025-07-13 13:25:56,530 - INFO - 初始化主窗口
+2025-07-13 13:25:56,723 - INFO - 主窗口初始化完成
+2025-07-13 13:25:57,000 - INFO - 主窗口已显示
+2025-07-13 13:25:57,008 - INFO - 开始检测Qt Designer路径
+2025-07-13 13:25:57,045 - INFO - 操作系统: Windows
+2025-07-13 13:25:57,045 - INFO - 运行环境: 开发环境
+2025-07-13 13:25:57,045 - DEBUG - 检查PATH环境变量中的designer
+2025-07-13 13:25:57,081 - DEBUG - PATH检查失败: Command '['where', 'designer']' returned non-zero exit status 1.
+2025-07-13 13:25:57,081 - DEBUG - 检查常见安装路径
+2025-07-13 13:25:57,082 - INFO - 通过 _check_common_paths_designer 找到Designer: .\Qt\bin\designer.exe
+2025-07-13 13:25:57,082 - INFO - 配置已保存到: E:\CodeMgr\MyTools\QtDesignerLauncher\config.json
+2025-07-13 13:26:00,804 - DEBUG - 测试Designer可执行文件: .\Qt\bin\designer.exe
+2025-07-13 13:26:06,605 - WARNING - Designer测试失败: Command '['.\\Qt\\bin\\designer.exe', '--version']' returned non-zero exit status 1.
+2025-07-13 13:28:55,351 - INFO - 程序启动
+2025-07-13 13:28:55,377 - INFO - Python版本: 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]
+2025-07-13 13:28:55,377 - INFO - 运行环境: 开发环境
+2025-07-13 13:28:55,377 - INFO - 程序路径: E:\CodeMgr\MyTools\QtDesignerLauncher\main.py
+2025-07-13 13:28:55,377 - INFO - 初始化主窗口
+2025-07-13 13:28:55,378 - INFO - 配置已加载: E:\CodeMgr\MyTools\QtDesignerLauncher\config.json
+2025-07-13 13:28:55,583 - INFO - 主窗口初始化完成
+2025-07-13 13:28:55,919 - INFO - 主窗口已显示
+2025-07-13 13:28:55,921 - INFO - 开始检测Qt Designer路径
+2025-07-13 13:28:55,922 - INFO - 配置已加载: E:\CodeMgr\MyTools\QtDesignerLauncher\config.json
+2025-07-13 13:28:55,922 - INFO - 从配置文件加载Designer路径: .\Qt\bin\designer.exe
+2025-07-13 13:29:33,472 - INFO - 程序启动
+2025-07-13 13:29:33,497 - INFO - Python版本: 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]
+2025-07-13 13:29:33,497 - INFO - 运行环境: 开发环境
+2025-07-13 13:29:33,497 - INFO - 程序路径: E:\CodeMgr\MyTools\QtDesignerLauncher\main.py
+2025-07-13 13:29:33,498 - INFO - 初始化主窗口
+2025-07-13 13:29:33,498 - INFO - 配置已加载: E:\CodeMgr\MyTools\QtDesignerLauncher\config.json
+2025-07-13 13:29:33,676 - INFO - 主窗口初始化完成
+2025-07-13 13:29:33,933 - INFO - 主窗口已显示
+2025-07-13 13:29:33,936 - INFO - 开始检测Qt Designer路径
+2025-07-13 13:29:33,936 - INFO - 配置已加载: E:\CodeMgr\MyTools\QtDesignerLauncher\config.json
+2025-07-13 13:29:33,936 - INFO - 从配置文件加载Designer路径: .\Qt\bin\designer.exe
+2025-07-13 13:29:37,676 - INFO - 配置已保存到: E:\CodeMgr\MyTools\QtDesignerLauncher\config.json
+2025-07-13 13:29:37,676 - INFO - 程序正常关闭
+2025-07-13 13:29:37,729 - INFO - 程序退出，退出码: 0
+2025-07-13 13:30:05,531 - INFO - 程序启动
+2025-07-13 13:30:05,557 - INFO - Python版本: 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]
+2025-07-13 13:30:05,557 - INFO - 运行环境: 开发环境
+2025-07-13 13:30:05,557 - INFO - 程序路径: E:\CodeMgr\MyTools\QtDesignerLauncher\main.py
+2025-07-13 13:30:05,558 - INFO - 初始化主窗口
+2025-07-13 13:30:05,558 - INFO - 配置已加载: E:\CodeMgr\MyTools\QtDesignerLauncher\config.json
+2025-07-13 13:30:05,726 - INFO - 主窗口初始化完成
+2025-07-13 13:30:06,020 - INFO - 主窗口已显示
+2025-07-13 13:30:06,024 - INFO - 开始检测Qt Designer路径
+2025-07-13 13:30:06,024 - INFO - 配置已加载: E:\CodeMgr\MyTools\QtDesignerLauncher\config.json
+2025-07-13 13:30:06,024 - INFO - 从配置文件加载Designer路径: .\Qt\bin\designer.exe
+2025-07-13 13:30:12,318 - INFO - 启动Designer: .\Qt\bin\designer.exe
+2025-07-13 13:31:19,047 - INFO - 程序启动
+2025-07-13 13:31:19,076 - INFO - Python版本: 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]
+2025-07-13 13:31:19,076 - INFO - 运行环境: 开发环境
+2025-07-13 13:31:19,076 - INFO - 程序路径: E:\CodeMgr\MyTools\QtDesignerLauncher\main.py
+2025-07-13 13:31:19,077 - INFO - 初始化主窗口
+2025-07-13 13:31:19,077 - INFO - 配置已加载: E:\CodeMgr\MyTools\QtDesignerLauncher\config.json
+2025-07-13 13:31:19,252 - INFO - 主窗口初始化完成
+2025-07-13 13:31:19,576 - INFO - 主窗口已显示
+2025-07-13 13:31:19,578 - INFO - 开始检测Qt Designer路径
+2025-07-13 13:31:19,578 - INFO - 配置已加载: E:\CodeMgr\MyTools\QtDesignerLauncher\config.json
+2025-07-13 13:31:19,578 - INFO - 从配置文件加载Designer路径: .\Qt\bin\designer.exe
+2025-07-13 13:31:43,969 - INFO - 系统信息: {'system': 'Windows', 'version': '10.0.26100', 'python': '3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]', 'architecture': '64bit', 'frozen': False, 'executable': 'E:\\CodeMgr\\MyTools\\QtDesignerLauncher\\.venv\\Scripts\\python.exe'}
+2025-07-13 13:31:43,969 - INFO - PyQt6版本: 6.9.1
+2025-07-13 13:32:15,343 - INFO - 配置已保存到: E:\CodeMgr\MyTools\QtDesignerLauncher\config.json
+2025-07-13 13:32:15,343 - INFO - 程序正常关闭
+2025-07-13 13:32:15,381 - INFO - 程序退出，退出码: 0

@@ -1,0 +1,6 @@
+.venv
+.idea
+build
+dist
+config.json
+__pycache__
